@@ -1,0 +1,13 @@
+title = "The config file of NGCS"
+
+[csaddr]
+ip = "127.0.0.1"
+port = "8001"
+
+[rcaddr]
+    [RC1]
+    ip = "127.0.0.1"
+    port = "9001"
+    [RC2]
+    ip = "127.0.0.1"
+    port = "9002"
